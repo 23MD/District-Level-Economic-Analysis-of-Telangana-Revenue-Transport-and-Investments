@@ -19,11 +19,7 @@ Telangana's economy ranks as the ninth-largest in India, with a gross state dome
 
 # Power BI Dashboard 
 
-
-
-https://github.com/user-attachments/assets/9f1e2f5b-e59a-4920-889b-d9bc6a99408d
-
-
+https://github.com/user-attachments/assets/1b9a10b2-b47e-4c74-b661-5748de0bd1ba
 
 
 # Dataset
